@@ -6,7 +6,7 @@ Alhamdulillah, all these solutions are accepted. ✅
 
 ---
 
-## 👤 Codeforces Handle
+## 👤 Codeforces Account
 
 **Handle:** **Metaphorist**
 

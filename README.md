@@ -8,7 +8,7 @@ Alhamdulillah, all these solutions are accepted. ✅
 
 ## 👤 Codeforces Handle
 
-**Metaphorist**
+**Handle:** **Metaphorist**
 
 ## 🛠 Languages
 

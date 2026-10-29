@@ -2,13 +2,13 @@
 
 My approaches to solving Codeforces problems in **C** and **C++**.
 
-Alhamdulillah, all of these solutions are accepted. ✅
+Alhamdulillah, all these solutions are accepted. ✅
 
 ---
 
-## 👤 Codeforces Profile
+## 👤 Codeforces Handle
 
-**Handle:** [Metaphorist](https://codeforces.com/profile/Metaphorist)
+**Metaphorist**
 
 ## 🛠 Languages
 
